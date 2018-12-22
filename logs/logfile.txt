@@ -1,0 +1,10 @@
+Script started on Tue 13 Mar 2018 17:08:02 UTC
+root@raspberrypi:/home/pi/Desktop/Camcalt/Program_Files# exit
+
+Script done on Tue 13 Mar 2018 17:08:05 UTC
+Script started on Tue 13 Mar 2018 17:08:35 UTC
+root@raspberrypi:/home/pi/Desktop/Camcalt/Program_Files# exit
+Script started on Tue 13 Mar 2018 17:09:40 UTC
+root@raspberrypi:/home/pi/Desktop/Camcalt/Program_Files# exit
+Script started on Tue 13 Mar 2018 17:10:54 UTC
+root@raspberrypi:/home/pi/Desktop/Camcalt/Program_Files# exit
