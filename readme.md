@@ -1,3 +1,9 @@
+THe main python file is "errorda.py" which branches into and calls other python files and the whole program files are packaged into a clickable shell file named "Camcal1t.sh"
+
+Please feel free to post your doubts on code through my linkedin link: edin.com/in/shreyas-ramachandran-srinivasan-565638117/
+
+User manual for said CAMCALT device: https://www.slideshare.net/slideshow/embed_code/key/t1MtqZh74rUYSy
+
 INTRODUCTION
 
 Our project Complex Animal Movement Capture And Live Transmission (CAMCALT) is a device specifically tailored to the need of a forest surveillance and monitoring system. The objective of the project is to eradicate the existing disadvantages of the Forest Trap Camera’s and integrate the latest technologically developed “Internet of Things” (IoT) into the device for Live feed wirelessly from any part of the world. The user-friendly UI is via an application that runs on a Raspberry Pi 3 Model B microcomputer. It is used to monitor the forests, animal movements and Poacher Detection. By this, 24 hours surveillance has been made possible that hunting and poaching can be prevented. Prevention of poaching of any animal by illegal poachers cabe done in forest areas. Forests can be more secure like a military restricted area. CAMCALT is an intelligent over watch for the forest landscape. In large numbers, you can have the whole forest under your control. 
