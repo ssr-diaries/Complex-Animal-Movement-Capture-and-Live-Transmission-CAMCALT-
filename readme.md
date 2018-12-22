@@ -4,6 +4,8 @@ The main python file is "errorda.py" which branches into and calls other python 
 
 Please feel free to contact me through linkedin if you have any doubts regarding the project: https://linkedin.com/in/shreyas-ramachandran-srinivasan-565638117/
 
+To see photos and videos from presentation/demo, visit: https://ssr1996.wixsite.com/shreyas-ssr/projects-patents
+
 User manual for said CAMCALT device: https://www.slideshare.net/slideshow/embed_code/key/t1MtqZh74rUYSy
 
 INTRODUCTION
