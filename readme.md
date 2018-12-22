@@ -1,4 +1,6 @@
-THe main python file is "errorda.py" which branches into and calls other python files and the whole program files are packaged into a clickable shell file named "Camcal1t.sh"
+Complex-Animal-Movement-Capture-and-Live-Transmission-CAMCALT-
+
+The main python file is "errorda.py" which branches into and calls other python files and the whole program files are packaged into a clickable shell file named "Camcal1t.sh"
 
 Please feel free to post your doubts on code through my linkedin: linkedin.com/in/shreyas-ramachandran-srinivasan-565638117/
 
