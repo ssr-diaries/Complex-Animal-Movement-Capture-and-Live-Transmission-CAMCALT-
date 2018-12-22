@@ -2,7 +2,7 @@ Complex-Animal-Movement-Capture-and-Live-Transmission-CAMCALT-
 
 The main python file is "errorda.py" which branches into and calls other python files and the whole program files are packaged into a clickable shell file named "Camcal1t.sh"
 
-Please feel free to post your doubts on code through my linkedin: linkedin.com/in/shreyas-ramachandran-srinivasan-565638117/
+F
 
 User manual for said CAMCALT device: https://www.slideshare.net/slideshow/embed_code/key/t1MtqZh74rUYSy
 
